@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Imyek12</h1>
-<h3 align="center">pinaka pogi sa CVsu</h3>
+<h3 align="center">pinaka pogi sa Cvsu</h3>
 
 - 🌱 I’m currently learning **HTML,JAVA Programing Language**
 
