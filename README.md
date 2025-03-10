@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Study in Cvsu💕👌<br>👯 I’m looking  for Help some one<br>🤝 I love playing basketball🙌🙌<br>🌱 I’m currently learning java program<br>💬 Ask me about anything about basketball<br>⚡ Fun fact funny🤣
+🔭 I’m Study in Cvsu💕👌<br>👯  Let's build something amazing together!!<br>🤝 I love playing basketball🙌🙌<br>🌱 I’m currently learning java program<br>💬 Ask me about anything about basketball<br>⚡ Fun fact funny🤣
 
 
 ## 🌐 Socials:
