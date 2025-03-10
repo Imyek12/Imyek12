@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Imyek12</h1>
-<h3 align="center">A passionate frontend developer from Philippines</h3>
+<h3 align="center">pinaka pogi sa CVsu</h3>
 
 - 🌱 I’m currently learning **HTML,JAVA Programing Language**
 
-- 💬 Ask me about **Basketball**
+- 💬 Ask me about **Varsity Player**
 
 - 📫 How to reach me **felixnacar8@gmail.com**
 
